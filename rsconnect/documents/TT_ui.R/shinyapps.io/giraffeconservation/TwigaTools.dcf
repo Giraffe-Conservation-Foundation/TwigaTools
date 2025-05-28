@@ -1,0 +1,12 @@
+name: TwigaTools
+title: TwigaTools
+username: giraffeconservation
+account: giraffeconservation
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14832550
+bundleId: 10356016
+url: https://giraffeconservation.shinyapps.io/TwigaTools/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
